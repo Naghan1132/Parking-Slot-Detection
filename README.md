@@ -2,5 +2,12 @@
 
 Using Yolov5
 
-## Utilisation
+## Classes
+1. Stop
+2. Speed Limit
+3. Cedez le passage
+4. Sens Interdit
+
+
+## Détection
 ![speedPred](/img/predSpeed.png)
