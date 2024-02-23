@@ -1,6 +1,6 @@
 # Traffic-Sign-Classification
 
-Using Yolov5
+Computer Vision project using Yolov5
 
 ## Classes
 1. Stop
