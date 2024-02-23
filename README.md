@@ -12,3 +12,4 @@ Using Yolov5
 ## Détection
 ![speedPred](/img/predSpeed.png)
 ![cedez](/img/cedez.png)
+![cedez](/img/confusion_matrix.png)
